@@ -1,0 +1,16 @@
+.form1{
+    width: 500px;
+    background-color:   rgba(0, 0, 0, 0.2);
+    margin: 250px auto;
+    padding:30px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+body{
+    /* overflow: hidden; */
+    margin: 0;
+    padding: 0;
+    background: rgb(106, 181, 211) ;
+    background: radial-gradient(circle, rgb(106, 181, 211)  0%, rgb(228, 224, 225) 100%);
+}
+   

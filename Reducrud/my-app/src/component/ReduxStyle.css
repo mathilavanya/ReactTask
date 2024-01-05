@@ -1,0 +1,68 @@
+body {
+    background: rgb(106, 181, 211) ;
+    background: radial-gradient(circle, rgb(106, 181, 211)  0%, rgb(228, 224, 225) 100%);
+  }
+  .first{
+    margin-top: 50px;
+    background: rgb(106, 181, 211) ;
+    background: radial-gradient(circle, rgb(106, 181, 211)  0%, rgb(228, 224, 225) 100%);
+  }
+  .outer {
+    /* background: radial-gradient(circle, rgb(106, 181, 211) 0%, rgb(228, 224, 225) 100%); */
+    /* padding: 20px; */
+    border-radius: 15px;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+  }
+  .card {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    margin-bottom: 20px;
+   }
+ 
+.top{
+    margin-top: 5%;
+}
+
+#check{
+    width: 25px !important;
+    height: 20px !important;
+  }
+  #country{
+    width: 100px !important;
+    height: 30px !important;
+  }
+  #remark{
+    width: 150px !important;
+    height: 30px !important;
+  }
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid black !important;
+    display: block;
+    border-radius: 4px;
+  } 
+
+  /* .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th,
+  td {
+    border: 1px solid #131111;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #171010;
+  } */
+  
+  .outer{
+    width: 1000px !important;
+  }
+  
